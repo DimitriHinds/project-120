@@ -1,0 +1,71 @@
+.heading
+{
+    font-size: 24px;
+    margin: 0px;
+    color: red;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+.test_image_result
+{
+background-color: black;
+}
+b
+{
+    color: whitesmoke;
+}
+h5, h4
+{
+    color: whitesmoke;
+}
+h5 b
+{
+    color: violet;
+}
+ol
+{
+    color: snow;
+    padding: 0px;
+}
+ol h5
+{
+    background-color: slategrey;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+    color: turquoise;
+}
+li img
+{
+	border-radius: 20px;
+}
+.bob
+{
+    padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;  
+}
+.mini_result
+{
+    text-align: center;
+}
+.result
+{
+    letter-spacing: 2px;
+	background: darkslategrey;
+	border-radius: 20px;
+	margin-top:30px;
+    margin-bottom: 40px;
+	padding: 20px;
+	border:2px solid greenyellow;
+}
