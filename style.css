@@ -65,7 +65,11 @@ li img
 	background: darkslategrey;
 	border-radius: 20px;
 	margin-top:30px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 	padding: 20px;
 	border:2px solid greenyellow;
+}
+h4 b
+{
+    color: violet;
 }
